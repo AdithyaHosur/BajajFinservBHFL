@@ -104,6 +104,9 @@ Processes an array of input values and classifies them into numbers, alphabets, 
 ### Curl Testing
 ![Curl Check](./screenshots/curl_check.png)
 
+### Render Check
+![Render Check](./screenshots/render_check.png)
+
 
 ## Author
 
